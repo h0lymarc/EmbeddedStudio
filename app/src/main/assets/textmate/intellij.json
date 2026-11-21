@@ -1,0 +1,81 @@
+{
+  "name": "intellij",
+  "settings": [
+    {
+      "settings": {
+        "background": "#FFFFFF",
+        "foreground": "#080808",
+        "caret": "#000000",
+        "lineHighlight": "#FCFAED",
+        "selection": "#A6D2FF",
+        "gutterForeground": "#ADADAD",
+        "highlightedDelimitersForeground": "#0033B3"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment, punctuation.definition.comment",
+      "settings": {
+        "foreground": "#8C8C8C",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": "string, string.quoted, string.character.escape",
+      "settings": {
+        "foreground": "#067D17"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": "constant.numeric",
+      "settings": {
+        "foreground": "#1750EB"
+      }
+    },
+    {
+      "name": "Keyword & Storage",
+      "scope": "keyword, keyword.control, storage, storage.type, storage.modifier, constant.language, variable.language",
+      "settings": {
+        "foreground": "#0033B3",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Preprocessor",
+      "scope": "meta.preprocessor, keyword.control.directive",
+      "settings": {
+        "foreground": "#9E880D"
+      }
+    },
+    {
+      "name": "Operators & Braces",
+      "scope": "keyword.operator, punctuation, meta.brace",
+      "settings": {
+        "foreground": "#080808"
+      }
+    },
+    {
+      "name": "Function",
+      "scope": "entity.name.function, support.function",
+      "settings": {
+        "foreground": "#00627A"
+      }
+    },
+    {
+      "name": "Types & Classes",
+      "scope": "entity.name.type, support.type, support.type.primitive",
+      "settings": {
+        "foreground": "#000000"
+      }
+    },
+    {
+      "name": "Constant & Property",
+      "scope": "constant.character, constant.other, variable.other.property",
+      "settings": {
+        "foreground": "#871094"
+      }
+    }
+  ]
+}

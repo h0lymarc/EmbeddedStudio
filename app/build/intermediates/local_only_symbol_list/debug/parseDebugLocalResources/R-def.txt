@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color window_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_logo
+mipmap ic_launcher
+mipmap ic_launcher_main
+mipmap ic_launcher_main_round
+mipmap ic_launcher_round
+string app_name
+string app_version
+string clone_project
+string create_project
+string delete_project
+string feedback
+string get_started
+string help
+string open_project
+string preferences
+string quick_start_guide
+string terminal
+style Theme.ComposeEmptyActivity
+xml backup_rules
+xml data_extraction_rules

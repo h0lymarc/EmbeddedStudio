@@ -1,0 +1,66 @@
+{
+  "name": "github_dark",
+  "settings": [
+    {
+      "settings": {
+        "background": "#0D1117",
+        "foreground": "#E6EDF3",
+        "caret": "#58A6FF",
+        "lineHighlight": "#161B22",
+        "selection": "#264F78",
+        "gutterForeground": "#6E7681",
+        "highlightedDelimitersForeground": "#79C0FF"
+      }
+    },
+    {
+      "name": "Comment",
+      "scope": "comment, punctuation.definition.comment",
+      "settings": {
+        "foreground": "#8B949E",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": "string, string.quoted, string.character.escape",
+      "settings": {
+        "foreground": "#A5D6FF"
+      }
+    },
+    {
+      "name": "Number & Constants",
+      "scope": "constant.numeric, constant.language, constant.character, constant.other, variable.language",
+      "settings": {
+        "foreground": "#79C0FF"
+      }
+    },
+    {
+      "name": "Keyword & Preprocessor",
+      "scope": "keyword, keyword.control, keyword.operator, storage, storage.type, storage.modifier, keyword.control.directive, meta.preprocessor",
+      "settings": {
+        "foreground": "#FF7B72"
+      }
+    },
+    {
+      "name": "Function",
+      "scope": "entity.name.function, support.function",
+      "settings": {
+        "foreground": "#D2A8FF"
+      }
+    },
+    {
+      "name": "Types & Parameters",
+      "scope": "entity.name.type, support.type, support.type.primitive, variable.parameter",
+      "settings": {
+        "foreground": "#FFA657"
+      }
+    },
+    {
+      "name": "Braces & Punctuation",
+      "scope": "punctuation, meta.brace",
+      "settings": {
+        "foreground": "#E6EDF3"
+      }
+    }
+  ]
+}

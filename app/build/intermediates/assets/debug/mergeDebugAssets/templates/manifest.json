@@ -1,0 +1,14 @@
+[
+  {
+    "id": "blank",
+    "name": "Blank .ino",
+    "asset": "templates/blank.ino",
+    "libraries": []
+  },
+  {
+    "id": "lcd_i2c",
+    "name": "LCD I2C",
+    "asset": "templates/lcd_i2c.ino",
+    "libraries": ["LiquidCrystal I2C"]
+  }
+]

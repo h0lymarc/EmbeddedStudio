@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-hdpi_ic_launcher_main.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-hdpi/ic_launcher_main.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xhdpi_ic_launcher_main.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xhdpi/ic_launcher_main.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable-xxxhdpi_ic_logo.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable-xxxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable-xxhdpi_ic_logo.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-mdpi_ic_launcher_main_round.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-mdpi/ic_launcher_main_round.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap_ic_launcher_main.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap/ic_launcher_main.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxxhdpi_ic_launcher_main.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxxhdpi/ic_launcher_main.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-hdpi_ic_launcher_main_round.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-hdpi/ic_launcher_main_round.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-mdpi_ic_launcher_main.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-mdpi/ic_launcher_main.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxhdpi_ic_launcher_main_round.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxhdpi/ic_launcher_main_round.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap_ic_launcher_main_round.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap/ic_launcher_main_round.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xhdpi_ic_launcher_main_round.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xhdpi/ic_launcher_main_round.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable-mdpi_ic_logo.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable-mdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/xml_backup_rules.xml.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable-xhdpi_ic_logo.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable-xhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxxhdpi_ic_launcher_main_round.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxxhdpi/ic_launcher_main_round.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable-hdpi_ic_logo.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable-hdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable_ic_logo.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable/ic_logo.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxhdpi_ic_launcher_main.png.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxhdpi/ic_launcher_main.png"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.h0lymarc.eside.app-debug-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.h0lymarc.eside.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#FFFFFFFF</color>
+    <string name="app_name">EmbeddedStudio</string>
+    <string name="app_version">26.46 (C-r-1110-0826)</string>
+    <string name="clone_project">Clone a Git project</string>
+    <string name="create_project">Create a new project</string>
+    <string name="delete_project">Delete a saved project</string>
+    <string name="feedback">Feedback</string>
+    <string name="get_started">Get started</string>
+    <string name="help">Help</string>
+    <string name="open_project">Open a saved project</string>
+    <string name="preferences">Preferences</string>
+    <string name="quick_start_guide">Read the Quick Start guide</string>
+    <string name="terminal">Terminal</string>
+    <style name="Theme.ComposeEmptyActivity" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
